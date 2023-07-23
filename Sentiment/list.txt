@@ -6,3 +6,4 @@
 "pip install numpy"
 "pip install scipy"
 "pip install urllib"
+"pip install streamlit"
