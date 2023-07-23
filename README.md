@@ -6,7 +6,7 @@ This is a simple project that can used to detect sentiment of a text only post a
 
 # Steps
 1. Download the project folder by downloading zip or cloning 
-2. Run the commands list in list.txt in command prompt or terminal after entering the Sentiment folder by "cd Sentiment" command in terminal
+2. Run the commands list in list.txt which are in double quotes as the first command also has a link within the command in command prompt or terminal after entering the Sentiment folder by "cd Sentiment" command in terminal
 3. Open the project folder and navigate to the root folder of project
 4. Run the command "streamlit run scrapper.py" in Sentiment folder to run the project on your localhost
 5. Once the server starts running you can enter the post in captions text field and click predict to make predictions on entered post
